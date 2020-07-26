@@ -1,0 +1,6 @@
+new project ->masven ->next -> checkboxes select->com.abc->finish
+build
+folder (xml java resa) com.xml dependencies  ->click ->dependencies ->maven dependencies pate in com.xml 
+java right click->class->
+prject folder ->shaering >team->name ->
+package create maven
